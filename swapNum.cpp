@@ -10,4 +10,5 @@ int main(){
     a=b;
     b=c;
     cout<<"a is "<<a<<"\nb is "<<b;
+    return 0;
 }
